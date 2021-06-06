@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semana16</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Saludar">Saludar</string>
+    <string name="Saludo">Saludo</string>
+    <string name="Edad">Edad</string>
+</resources>
